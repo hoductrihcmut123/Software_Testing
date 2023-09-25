@@ -1,0 +1,14 @@
+login - logout -sign up : 				Quan
+{book - search
+
+payment - bill} : 					Long
+admin :
+ - room /edit room 					Hoang
+ - add room 						Tien
+ - user 						An
+
+non - func :
+ - responsive						An 
+ - Check out > check in					An
+ - input "children 1-12", "adults 13 above" > 0 	An	
+	
