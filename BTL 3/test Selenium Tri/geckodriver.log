@@ -1,0 +1,258 @@
+1670916364809	geckodriver	INFO	Listening on 127.0.0.1:55154
+1670916367818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilenXoO7x"
+1670916368204	Marionette	INFO	Marionette enabled
+1670916368211	Marionette	INFO	Listening on port 55164
+Read port: 55164
+WebDriver BiDi listening on ws://127.0.0.1:55155
+1670916368322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilenXoO7x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55155/devtools/browser/39fcccf0-9bf1-43d5-a943-d86a3f10a116
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670916637774	geckodriver	INFO	Listening on 127.0.0.1:62754
+1670916640838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile1rgCw4"
+1670916641186	Marionette	INFO	Marionette enabled
+1670916641192	Marionette	INFO	Listening on port 62768
+WebDriver BiDi listening on ws://127.0.0.1:62755
+Read port: 62768
+1670916641527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile1rgCw4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62755/devtools/browser/7f070ef9-fb8a-431d-a284-09811b7baf14
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: https://sandbox.moodledemo.net/user/edit.php?id=4&returnto=profile, line 3874: TypeError: M.core_filepicker is undefined
+1670916661869	Marionette	INFO	Stopped listening on port 62768
+1670916662743	geckodriver	INFO	Listening on 127.0.0.1:62807
+1670916665790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile7Q1lqT"
+1670916666139	Marionette	INFO	Marionette enabled
+1670916666147	Marionette	INFO	Listening on port 62819
+WebDriver BiDi listening on ws://127.0.0.1:62808
+Read port: 62819
+1670916666448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile7Q1lqT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62808/devtools/browser/87e31e2e-871c-4078-98a1-254b71e7b6eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670916988511	geckodriver	INFO	Listening on 127.0.0.1:63168
+1670916991537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilebn8qJl"
+1670916991877	Marionette	INFO	Marionette enabled
+1670916991884	Marionette	INFO	Listening on port 63181
+WebDriver BiDi listening on ws://127.0.0.1:63169
+Read port: 63181
+1670916992199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilebn8qJl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63169/devtools/browser/bf0c0322-5858-47fe-a290-db1b07aabc7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+JavaScript error: https://sandbox.moodledemo.net/lib/requirejs.php/1670911266/core/first.js, line 903: TypeError: responses is undefined
+1670917899374	geckodriver	INFO	Listening on 127.0.0.1:51140
+1670917902439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileOuoGcO"
+1670917902849	Marionette	INFO	Marionette enabled
+1670917902857	Marionette	INFO	Listening on port 51153
+Read port: 51153
+WebDriver BiDi listening on ws://127.0.0.1:51141
+1670917902990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670917926678	geckodriver	INFO	Listening on 127.0.0.1:51182
+1670917929723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile1i3EFD"
+1670917930066	Marionette	INFO	Marionette enabled
+1670917930074	Marionette	INFO	Listening on port 51192
+WebDriver BiDi listening on ws://127.0.0.1:51183
+Read port: 51192
+1670917930381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofile1i3EFD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51183/devtools/browser/6a00dd46-9b5b-4818-b7d7-f1df6813edd0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670917987050	geckodriver	INFO	Listening on 127.0.0.1:51258
+1670917990115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileBzdwwy"
+1670917990474	Marionette	INFO	Marionette enabled
+1670917990482	Marionette	INFO	Listening on port 51270
+WebDriver BiDi listening on ws://127.0.0.1:51259
+Read port: 51270
+1670917990706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileBzdwwy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51259/devtools/browser/f7dfcb81-e419-4224-9217-69cd26bad854
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670918015542	Marionette	INFO	Stopped listening on port 51270
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670918278507	geckodriver	INFO	Listening on 127.0.0.1:51906
+1670918281562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilep8Q6TP"
+1670918282033	Marionette	INFO	Marionette enabled
+1670918282040	Marionette	INFO	Listening on port 51919
+Read port: 51919
+WebDriver BiDi listening on ws://127.0.0.1:51907
+1670918282179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilep8Q6TP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51907/devtools/browser/314a9b4e-63c3-413c-8375-fc6481f66cc0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670918845482	geckodriver	INFO	Listening on 127.0.0.1:52641
+1670918848542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileEyLYlq"
+1670918848899	Marionette	INFO	Marionette enabled
+1670918848906	Marionette	INFO	Listening on port 52653
+WebDriver BiDi listening on ws://127.0.0.1:52642
+Read port: 52653
+1670918849140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670918859525	geckodriver	INFO	Listening on 127.0.0.1:52672
+1670918862579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileA5BvLw"
+1670918863020	Marionette	INFO	Marionette enabled
+1670918863028	Marionette	INFO	Listening on port 52684
+WebDriver BiDi listening on ws://127.0.0.1:52673
+Read port: 52684
+1670918863338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileA5BvLw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52673/devtools/browser/4126cc3f-9ed6-4972-ba8a-a8eea6d7ff22
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670918879348	Marionette	INFO	Stopped listening on port 52684
+1670918880214	geckodriver	INFO	Listening on 127.0.0.1:52721
+1670918883286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilelEthXl"
+1670918883634	Marionette	INFO	Marionette enabled
+1670918883642	Marionette	INFO	Listening on port 52733
+WebDriver BiDi listening on ws://127.0.0.1:52722
+Read port: 52733
+1670918883934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilelEthXl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52722/devtools/browser/27c33814-f233-4d4e-b05c-5f1bd7bb4c7f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670918988606	geckodriver	INFO	Listening on 127.0.0.1:52836
+1670918991664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileuFLztW"
+1670918992018	Marionette	INFO	Marionette enabled
+1670918992027	Marionette	INFO	Listening on port 52846
+WebDriver BiDi listening on ws://127.0.0.1:52837
+Read port: 52846
+1670918992315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileuFLztW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52837/devtools/browser/55cc3de3-55f5-4e7f-8e6c-620b2b0c473e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919012996	Marionette	INFO	Stopped listening on port 52846
+1670919014010	geckodriver	INFO	Listening on 127.0.0.1:52887
+1670919017024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilemR0bkt"
+1670919017370	Marionette	INFO	Marionette enabled
+1670919017377	Marionette	INFO	Listening on port 52897
+WebDriver BiDi listening on ws://127.0.0.1:52888
+Read port: 52897
+1670919017688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilemR0bkt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52888/devtools/browser/39af2e3f-bc20-450d-98a8-447dfd284ee4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919040052	Marionette	INFO	Stopped listening on port 52897
+1670919041020	geckodriver	INFO	Listening on 127.0.0.1:52939
+1670919044057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileO39c2I"
+1670919044414	Marionette	INFO	Marionette enabled
+1670919044421	Marionette	INFO	Listening on port 52951
+WebDriver BiDi listening on ws://127.0.0.1:52940
+Read port: 52951
+1670919044653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileO39c2I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52940/devtools/browser/80e92182-4cdd-4638-9950-4f02d1cb893c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919067198	Marionette	INFO	Stopped listening on port 52951
+1670919068154	geckodriver	INFO	Listening on 127.0.0.1:52990
+1670919071187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileW7ToyZ"
+1670919071538	Marionette	INFO	Marionette enabled
+1670919071544	Marionette	INFO	Listening on port 53003
+WebDriver BiDi listening on ws://127.0.0.1:52991
+Read port: 53003
+1670919071766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileW7ToyZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52991/devtools/browser/89527ad5-4bd6-4356-843d-c1b4a21703a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919092672	Marionette	INFO	Stopped listening on port 53003
+1670919093807	geckodriver	INFO	Listening on 127.0.0.1:53043
+1670919096876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53044" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileqOltIP"
+1670919097231	Marionette	INFO	Marionette enabled
+1670919097238	Marionette	INFO	Listening on port 53053
+WebDriver BiDi listening on ws://127.0.0.1:53044
+Read port: 53053
+1670919097539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileqOltIP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53044/devtools/browser/c72c2e2d-12d1-4d6d-af4b-ca8e0104257a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919113764	Marionette	INFO	Stopped listening on port 53053
+1670919114627	geckodriver	INFO	Listening on 127.0.0.1:53092
+1670919117683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilexVqnb2"
+1670919118067	Marionette	INFO	Marionette enabled
+1670919118078	Marionette	INFO	Listening on port 53102
+Read port: 53102
+WebDriver BiDi listening on ws://127.0.0.1:53093
+1670919118238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofilexVqnb2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53093/devtools/browser/ae8382c6-a0a6-430c-9899-e8840bd4a39b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919140579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670919142042	Marionette	INFO	Stopped listening on port 53102
+1670919142899	geckodriver	INFO	Listening on 127.0.0.1:53143
+1670919145945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileE41LW0"
+1670919146288	Marionette	INFO	Marionette enabled
+1670919146294	Marionette	INFO	Listening on port 53155
+WebDriver BiDi listening on ws://127.0.0.1:53144
+Read port: 53155
+1670919146594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileE41LW0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53144/devtools/browser/5060e17d-7bee-4a57-aeb0-a635ce8f9e8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919166944	Marionette	INFO	Stopped listening on port 53155
+1670919167787	geckodriver	INFO	Listening on 127.0.0.1:53195
+1670919170841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileDkrXlc"
+1670919171193	Marionette	INFO	Marionette enabled
+1670919171200	Marionette	INFO	Listening on port 53207
+WebDriver BiDi listening on ws://127.0.0.1:53196
+Read port: 53207
+1670919171430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileDkrXlc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53196/devtools/browser/162ff7ef-83cd-4a94-b2af-faf9f88509ff
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670919192437	Marionette	INFO	Stopped listening on port 53207
+1670953772837	geckodriver	INFO	Listening on 127.0.0.1:50543
+1670953775884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofiledTFXXT"
+1670953776331	Marionette	INFO	Marionette enabled
+1670953776340	Marionette	INFO	Listening on port 50559
+WebDriver BiDi listening on ws://127.0.0.1:50544
+Read port: 50559
+1670953776710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofiledTFXXT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50544/devtools/browser/de28cab8-1f32-44f9-966e-2aefaf3a045e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670953862525	Marionette	INFO	Stopped listening on port 50559
+1670992008354	geckodriver	INFO	Listening on 127.0.0.1:55494
+1670992011437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileND6l9G"
+1670992012119	Marionette	INFO	Marionette enabled
+1670992012130	Marionette	INFO	Listening on port 55506
+Read port: 55506
+WebDriver BiDi listening on ws://127.0.0.1:55495
+1670992012311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670992344300	geckodriver	INFO	Listening on 127.0.0.1:58415
+1670992347367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileyz5mfP"
+1670992347891	Marionette	INFO	Marionette enabled
+1670992347898	Marionette	INFO	Listening on port 58429
+Read port: 58429
+WebDriver BiDi listening on ws://127.0.0.1:58416
+1670992348033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670992945367	geckodriver	INFO	Listening on 127.0.0.1:62865
+1670992948390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileUl8KxJ"
+1670992948820	Marionette	INFO	Marionette enabled
+1670992948828	Marionette	INFO	Listening on port 62877
+Read port: 62877
+WebDriver BiDi listening on ws://127.0.0.1:62866
+1670992948946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\THINKPAD\\AppData\\Local\\Temp\\rust_mozprofileUl8KxJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62866/devtools/browser/db6ec6d2-fba1-4687-b84f-2a68aa9f253c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sandbox.moodledemo.net."
+1670993009627	Marionette	INFO	Stopped listening on port 62877
